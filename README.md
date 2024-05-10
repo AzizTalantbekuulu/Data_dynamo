@@ -36,8 +36,7 @@ This project aims to design and implement a scalable back-end system for DataDyn
 
 ## Contributors
 
-- John Doe <john@example.com>
-- Jane Smith <jane@example.com>
+- Abdulaziz Talantbek uulu (Abdulaziz.talantbekuulu@alatoo.edu.kg)
 
 ## API Endpoints
 
